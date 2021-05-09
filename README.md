@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bora @borawhocodess
 - 👀 I’m interested in lots of things but mainly cpp & python 
-- 🌱 I’m currently learning computer engineering at ITU
+- 🌱 I’m currently majoring computer engineering at ITU
 - 💞️ I’m looking to collaborate on whatever you hit me up with
 - 📫 How to reach me : ozturks19@itu.edu.tr
 
