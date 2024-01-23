@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bora @borawhocodess
-- 👀 I’m interested in lots of things but mainly cpp & python 
+- 👀 I’m interested in lots of things but mainly cpp & python & swift
 - 🌱 I’m currently majoring computer engineering at ITU
 - 📫 How to reach me : ozturks19@itu.edu.tr
 
