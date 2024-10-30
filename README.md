@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Bora @borawhocodess
-- 🎓 Fresh Computer Engineering graduate
+- 🎓 M.Sc. Computer Science at University of Freiburg
 - 🦸🏻‍♂️ To be continued...
+
