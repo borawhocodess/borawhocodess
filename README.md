@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Bora @borawhocodess
 - 🎓 M.Sc. Computer Science at University of Freiburg
-- 🦸🏻‍♂️ To be continued...
+- 📲 Check out our social journaling app [fourf](https://forfriendsfromfriends.com)
+
 
